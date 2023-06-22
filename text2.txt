@@ -1,2 +1,1 @@
 This my Text2 File.
-Some text added.
